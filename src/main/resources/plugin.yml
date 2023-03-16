@@ -1,0 +1,6 @@
+main: me.goncalocruz.betterchatheads.BCHPlugin
+name: BetterChatHeads
+version: @version@
+api-version: @api-version@
+author: gonsawa_
+description: Show sender's head in chat
